@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### These are the links form the repo where all the information/data about the company  is stored in the json format.
+
+   - Raw Engineering - https://venu-raw.github.io/companyPage_data/raw.json
+   - Contentstack - https://venu-raw.github.io/companyPage_data/contentstack.json
+   - Surfboard - https://venu-raw.github.io/companyPage_data/surfboard.json
+
+### Live Demo link: 
+
+  - https://company-website-ssr-pink.vercel.app/
+
+
 ## Getting Started
 
 First, run the development server:
